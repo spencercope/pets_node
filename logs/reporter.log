@@ -1,0 +1,141 @@
+2017-10-13T21:05:13.230Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-13T21:05:13.232Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-13T21:05:13.237Z - info: Searching for available extensions in /Users/scope/jnkmn/pets_node/
+2017-10-13T21:05:13.241Z - info: Extensions location cache doesn't contain entry yet, crawling
+2017-10-13T21:05:13.602Z - info: Found 30 extensions
+2017-10-13T21:05:13.608Z - debug: Writing extension locations cache to /var/folders/3h/2sd6rf8s0bl40nd1s28vg76cf0b5mv/T/jsreport-temp/extensions/locations.json
+2017-10-13T21:05:13.609Z - debug: Discovered 30 extensions
+2017-10-13T21:05:13.610Z - info: Using extension import-export
+2017-10-13T21:05:13.775Z - info: Using extension tags
+2017-10-13T21:05:13.779Z - info: Using extension templates
+2017-10-13T21:05:13.780Z - info: Using extension jsrender
+2017-10-13T21:05:13.781Z - info: Using extension authentication
+2017-10-13T21:05:13.802Z - debug: Extension authentication was disabled
+2017-10-13T21:05:13.802Z - info: Using extension cli
+2017-10-13T21:05:13.803Z - info: Using extension handlebars
+2017-10-13T21:05:13.803Z - info: Using extension debug
+2017-10-13T21:05:13.804Z - info: Using extension express
+2017-10-13T21:05:13.825Z - info: Using extension fop-pdf
+2017-10-13T21:05:13.829Z - info: Using extension phantom-pdf
+2017-10-13T21:05:13.866Z - info: Using extension fs-store
+2017-10-13T21:05:13.916Z - debug: Extension fs-store was disabled
+2017-10-13T21:05:13.916Z - info: Using extension authorization
+2017-10-13T21:05:13.921Z - debug: Extension authorization was disabled
+2017-10-13T21:05:13.921Z - info: Using extension images
+2017-10-13T21:05:13.925Z - info: Using extension child-templates
+2017-10-13T21:05:13.927Z - info: Using extension browser-client
+2017-10-13T21:05:13.927Z - info: Using extension licensing
+2017-10-13T21:05:13.950Z - info: Using extension data
+2017-10-13T21:05:13.951Z - info: Using extension text
+2017-10-13T21:05:13.951Z - info: Using extension reports
+2017-10-13T21:05:13.957Z - info: Using extension resources
+2017-10-13T21:05:13.958Z - info: Using extension base
+2017-10-13T21:05:13.959Z - info: Using extension studio
+2017-10-13T21:05:13.966Z - info: Using extension html-to-xlsx
+2017-10-13T21:05:14.011Z - info: Using extension scripts
+2017-10-13T21:05:14.013Z - info: Using extension assets
+2017-10-13T21:05:14.018Z - info: Using extension scheduling
+2017-10-13T21:05:14.033Z - info: Using extension xlsx
+2017-10-13T21:05:14.134Z - info: Using extension sample-template
+2017-10-13T21:05:14.135Z - debug: Creating samples is disabled
+2017-10-13T21:05:14.135Z - info: Using extension public-templates
+2017-10-13T21:05:14.140Z - debug: Extension public-templates was disabled
+2017-10-13T21:05:14.156Z - info: Creating memory store
+2017-10-13T21:05:14.178Z - info: Configuring routes for existing express app.
+2017-10-13T21:05:14.206Z - info: Verifying license key free
+2017-10-13T21:05:14.207Z - info: Using free license
+2017-10-13T21:05:14.208Z - info: reporter initialized
+2017-10-13T21:12:46.392Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-13T21:12:46.392Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-13T21:12:46.395Z - info: Searching for available extensions in /Users/scope/jnkmn/pets_node/
+2017-10-13T21:12:46.399Z - info: Extensions location cache contains up to date information, skipping crawling in /Users/scope/jnkmn/pets_node/node_modules/
+2017-10-13T21:12:46.404Z - info: Found 30 extensions
+2017-10-13T21:12:46.411Z - debug: Writing extension locations cache to /var/folders/3h/2sd6rf8s0bl40nd1s28vg76cf0b5mv/T/jsreport-temp/extensions/locations.json
+2017-10-13T21:12:46.412Z - debug: Discovered 30 extensions
+2017-10-13T21:12:46.412Z - info: Using extension import-export
+2017-10-13T21:12:46.586Z - info: Using extension tags
+2017-10-13T21:12:46.589Z - info: Using extension templates
+2017-10-13T21:12:46.591Z - info: Using extension jsrender
+2017-10-13T21:12:46.591Z - info: Using extension authentication
+2017-10-13T21:12:46.613Z - debug: Extension authentication was disabled
+2017-10-13T21:12:46.613Z - info: Using extension cli
+2017-10-13T21:12:46.613Z - info: Using extension handlebars
+2017-10-13T21:12:46.614Z - info: Using extension debug
+2017-10-13T21:12:46.615Z - info: Using extension express
+2017-10-13T21:12:46.632Z - info: Using extension fop-pdf
+2017-10-13T21:12:46.636Z - info: Using extension phantom-pdf
+2017-10-13T21:12:46.672Z - info: Using extension fs-store
+2017-10-13T21:12:46.728Z - debug: Extension fs-store was disabled
+2017-10-13T21:12:46.729Z - info: Using extension authorization
+2017-10-13T21:12:46.734Z - debug: Extension authorization was disabled
+2017-10-13T21:12:46.735Z - info: Using extension images
+2017-10-13T21:12:46.739Z - info: Using extension child-templates
+2017-10-13T21:12:46.742Z - info: Using extension browser-client
+2017-10-13T21:12:46.743Z - info: Using extension licensing
+2017-10-13T21:12:46.758Z - info: Using extension data
+2017-10-13T21:12:46.759Z - info: Using extension text
+2017-10-13T21:12:46.759Z - info: Using extension reports
+2017-10-13T21:12:46.764Z - info: Using extension resources
+2017-10-13T21:12:46.765Z - info: Using extension base
+2017-10-13T21:12:46.765Z - info: Using extension studio
+2017-10-13T21:12:46.772Z - info: Using extension html-to-xlsx
+2017-10-13T21:12:46.814Z - info: Using extension scripts
+2017-10-13T21:12:46.815Z - info: Using extension assets
+2017-10-13T21:12:46.820Z - info: Using extension scheduling
+2017-10-13T21:12:46.838Z - info: Using extension xlsx
+2017-10-13T21:12:46.944Z - info: Using extension sample-template
+2017-10-13T21:12:46.945Z - debug: Creating samples is disabled
+2017-10-13T21:12:46.945Z - info: Using extension public-templates
+2017-10-13T21:12:46.952Z - debug: Extension public-templates was disabled
+2017-10-13T21:12:46.968Z - info: Creating memory store
+2017-10-13T21:12:46.994Z - info: Configuring routes for existing express app.
+2017-10-13T21:12:47.024Z - info: Verifying license key free
+2017-10-13T21:12:47.025Z - info: Using free license
+2017-10-13T21:12:47.026Z - info: reporter initialized
+2017-10-13T21:14:51.579Z - info: Initializing jsreport@1.8.2 in development mode using configuration file dev.config.json
+2017-10-13T21:14:51.580Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2017-10-13T21:14:51.582Z - info: Searching for available extensions in /Users/scope/jnkmn/pets_node/
+2017-10-13T21:14:51.586Z - info: Extensions location cache contains up to date information, skipping crawling in /Users/scope/jnkmn/pets_node/node_modules/
+2017-10-13T21:14:51.591Z - info: Found 30 extensions
+2017-10-13T21:14:51.598Z - debug: Writing extension locations cache to /var/folders/3h/2sd6rf8s0bl40nd1s28vg76cf0b5mv/T/jsreport-temp/extensions/locations.json
+2017-10-13T21:14:51.599Z - debug: Discovered 30 extensions
+2017-10-13T21:14:51.600Z - info: Using extension import-export
+2017-10-13T21:14:51.774Z - info: Using extension tags
+2017-10-13T21:14:51.778Z - info: Using extension templates
+2017-10-13T21:14:51.780Z - info: Using extension jsrender
+2017-10-13T21:14:51.781Z - info: Using extension authentication
+2017-10-13T21:14:51.802Z - debug: Extension authentication was disabled
+2017-10-13T21:14:51.802Z - info: Using extension cli
+2017-10-13T21:14:51.803Z - info: Using extension handlebars
+2017-10-13T21:14:51.803Z - info: Using extension debug
+2017-10-13T21:14:51.804Z - info: Using extension express
+2017-10-13T21:14:51.819Z - info: Using extension fop-pdf
+2017-10-13T21:14:51.825Z - info: Using extension phantom-pdf
+2017-10-13T21:14:51.863Z - info: Using extension fs-store
+2017-10-13T21:14:51.920Z - debug: Extension fs-store was disabled
+2017-10-13T21:14:51.921Z - info: Using extension authorization
+2017-10-13T21:14:51.926Z - debug: Extension authorization was disabled
+2017-10-13T21:14:51.926Z - info: Using extension images
+2017-10-13T21:14:51.930Z - info: Using extension child-templates
+2017-10-13T21:14:51.932Z - info: Using extension browser-client
+2017-10-13T21:14:51.933Z - info: Using extension licensing
+2017-10-13T21:14:51.949Z - info: Using extension data
+2017-10-13T21:14:51.950Z - info: Using extension text
+2017-10-13T21:14:51.950Z - info: Using extension reports
+2017-10-13T21:14:51.955Z - info: Using extension resources
+2017-10-13T21:14:51.956Z - info: Using extension base
+2017-10-13T21:14:51.957Z - info: Using extension studio
+2017-10-13T21:14:51.963Z - info: Using extension html-to-xlsx
+2017-10-13T21:14:52.010Z - info: Using extension scripts
+2017-10-13T21:14:52.011Z - info: Using extension assets
+2017-10-13T21:14:52.016Z - info: Using extension scheduling
+2017-10-13T21:14:52.035Z - info: Using extension xlsx
+2017-10-13T21:14:52.144Z - info: Using extension sample-template
+2017-10-13T21:14:52.145Z - debug: Creating samples is disabled
+2017-10-13T21:14:52.146Z - info: Using extension public-templates
+2017-10-13T21:14:52.160Z - debug: Extension public-templates was disabled
+2017-10-13T21:14:52.176Z - info: Creating memory store
+2017-10-13T21:14:52.203Z - info: Configuring routes for existing express app.
+2017-10-13T21:14:52.228Z - info: Verifying license key free
+2017-10-13T21:14:52.229Z - info: Using free license
+2017-10-13T21:14:52.230Z - info: reporter initialized

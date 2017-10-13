@@ -1,0 +1,29 @@
+{
+  "local" : {
+    "username" : "pets_user",
+    "password" : "pets_password",
+    "database" : "pets_db",
+    "host" : "127.0.0.1",
+    "dialect" : "mysql",
+    "define" : {
+      "timestamps" : false
+    },
+    "serviceBaseURL" : "/services",
+    "listenPort" : "3333",
+    "angularServeSource": "build"
+  },
+  "production": {
+    "username": "prod_username",
+    "password": "prod_password",
+    "database": "prod_dbName",
+    "QBWebAPI": "",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": false
+    },
+    "serviceBaseURL": "/services",
+    "listenPort": "3335",
+    "angularServeSource": "build"
+  }
+}
